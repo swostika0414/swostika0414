@@ -1,61 +1,56 @@
 <h1 align="center">Hi, I'm Swostika Suwal 👋</h1>
 
 <p align="center">
-  <b>Biomedical Engineering Student · Computational Physiologist . </b><br/>
-  Building systems at the intersection of biology, data, and social impact.
+  <b>Biomedical Engineering Student · Computational Simulation & 3D Organic Modeling</b><br/>
+  Building physiological sandboxes and computational models of biological systems.
 </p>
 
 ---
 
-## 🧬 About Me
+## About Me
 
-I'm a Semester 4 Biomedical Engineering student passionate about using computation and mathematics to solve real-world health challenges — especially in underserved and high-risk populations.
+I'm a Semester 4 Biomedical Engineering student interested in how biological systems can be understood through computation — building simulators, models, and sandboxes that capture real physiological behavior.
 
-I build projects that combine **physiological modeling**, **clinical data science**, and **predictive ML** to make healthcare smarter and more accessible.
-
-- 🔬 Currently building: cardiovascular simulators & maternal health risk models
-- 🛠️ Tools I use: Python, NumPy, Matplotlib, Streamlit, scikit-learn
-- 🌍 Focus: Social impact through biomedical innovation
+- 🔬 Currently building: cardiovascular simulators & physiological modeling tools
+- 🧱 Interested in: 3D modeling of organic structures, simulation, computational problem-solving
+- 🛠️ Tools I use: Python, NumPy, Matplotlib, Flutter
 - 📍 Based in Bhaktapur, Nepal
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🫀 [BioSys Sandbox](https://github.com/swostika0414/BioSys-Sandbox)
+### 🫀 [BioSys Sandbox](https://github.com/swostika0414/BioSys)
 > A computational cardiovascular & physiological systems simulator built from scratch in Python.
 
-- Models the heart, arterial vessels, and blood pressure dynamics using the **Windkessel model**
-- Implements **Frank-Starling mechanism** and **afterload feedback loops** for realistic cardiac behavior
-- Includes a **clinical alert system** with biomarker thresholds and sanity validation
-- Simulates scenarios: heart failure, bradycardia, hypertension, tachycardia
-- Built with: `Python` `NumPy` `Matplotlib` `Streamlit`
+- Models heart dynamics and arterial pressure using the Windkessel model
+- Implements Frank-Starling mechanism and afterload feedback loops
+- Simulates clinical scenarios: heart failure, bradycardia, hypertension, tachycardia
+- Built with: `Python` `NumPy` `Matplotlib`
 
 ---
 
-### 🤰 [MATRI](https://github.com/swostika0414/MATRI)
-> A maternal health monitoring and risk prediction system for early detection of pregnancy complications.
+### 🤰 [MATRI](https://github.com/swostika0414/MATRI-2.0)
+> A maternal health monitoring system for early detection of complications in rural Nepal.
 
-- Uses **feature engineering** and **gradient boosting** to predict patient risk levels
-- Designed for early detection of complications and real-time condition tracking
-- Aimed at improving maternal outcomes, especially in resource-limited settings
-- Built with: `Dart` `Gradient Boosting` 
+- Two-app offline system communicating over SMS — no internet required
+- On-device risk prediction models running fully locally
+- Built with: `Flutter` `Dart` `SQLite` `BLE`
 
 ---
 
-## 🛠️ Skills & Stack
+## Skills & Stack
 
 | Area | Tools |
 |---|---|
-| Languages | Python |
-| Simulation & Modeling | NumPy, SciPy, Matplotlib |
-| Machine Learning | Gradient Boosting, Feature Engineering |
-| Biomedical Domain | Cardiovascular physiology, Maternal health, Clinical data |
-| Visualization & UI | Matplotlib, Streamlit |
+| Languages | Python, Dart |
+| Simulation & Modeling | NumPy, Matplotlib |
+| Biomedical Domain | Cardiovascular physiology, Physiological systems modeling |
+| App Development | Flutter, SQLite |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=swostika0414&show_icons=true&theme=default&hide_border=true" height="150"/>
@@ -64,11 +59,11 @@ I build projects that combine **physiological modeling**, **clinical data scienc
 
 ---
 
-## 🌱 What I'm Working On
+## What I'm Working On
 
-- 📈 Adding a **Streamlit dashboard** to BioSys Sandbox for real-time cardiovascular parameter control
-- 🩺 Expanding MATRI's prediction pipeline with more clinical features
-- 🧠 Exploring deeper integration of ML with physiological simulation
+- 📐 Expanding BioSys Sandbox with more physiological mechanisms
+- 🧱 Exploring 3D modeling of organic and biological structures
+- 🔁 Building more computational models of biological systems
 
 ---
 
