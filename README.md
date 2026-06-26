@@ -11,15 +11,15 @@
   <!-- GitHub Profile Summary Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=swostika0414&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swostika0414&layout=compact&theme=dracula&langs_count=5" height="150" alt="Top Languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swostika0414&layout=compact&theme=dracula&langs_count=5" height="150" alt="Top Languages" /> -->
 </div>
 
 ###
 
 <!-- GitHub Dynamic Trophy Case -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=swostika0414&theme=dracula&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
+</div> -->
 
 ###
 
@@ -80,4 +80,4 @@
   <i>"Biology is the most profound engineering challenge we know. I'm here for it."</i>
 </p>
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/swostika0414/swostika0414/snake-output/snake.svg" alt="Snake animation" />
+<!-- <img data-importer="snake" src="https://raw.githubusercontent.com/swostika0414/swostika0414/snake-output/snake.svg" alt="Snake animation" /> -->
